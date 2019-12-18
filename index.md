@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Final Project</title>
-	<style type="text/css">
+
 		body {
   padding: 0px;
   margin: 0px;
@@ -20,9 +16,7 @@ ul {
 h1 {
   font-family: "Georgia";
 }
-	</style>
-</head>
-<body>
+
 <div>  
 <h1>Texas: The Greatest State in the United States</h1>
   <p>Why, you ask?</p>
@@ -33,5 +27,4 @@ h1 {
     <li>History</li>
     <li>Music</li>
 </div>
-</body>
-</html>
+
