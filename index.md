@@ -1,5 +1,5 @@
 
-		body {
+		<style>body {
   padding: 0px;
   margin: 0px;
   text-align: center; 
@@ -16,7 +16,7 @@ ul {
 h1 {
   font-family: "Georgia";
 }
-
+</style>
 <div>  
 <h1>Texas: The Greatest State in the United States</h1>
   <p>Why, you ask?</p>
